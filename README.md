@@ -1,4 +1,9 @@
-<img src="https://github.com/alonsollp/alonsollp/blob/main/banner.png?raw=true">
+<a> 
+    <img src="https://github.com/alonsollp/alonsollp/blob/main/banner.png?raw=true">
+</a>
+
+## About me
+
 ¡Hola! 💻 Soy un desarrollador backend junior apasionado por aprender y enfrentar nuevos desafíos cada día. Me motiva mejorar continuamente y adquirir nuevas habilidades que me permitan evolucionar como profesional en el desarrollo de software.
 
 Me esfuerzo por diseñar soluciones sólidas y efectivas, siempre buscando la excelencia en lo que hago. Estoy convencido de que el aprendizaje constante y la colaboración son clave para alcanzar grandes resultados en equipo.
