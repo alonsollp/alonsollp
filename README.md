@@ -3,9 +3,9 @@
     <img src="https://github.com/alonsollp/alonsollp/blob/main/banner.png?raw=true">
 </a>-->
 
-## 💼 About me
+## 🐋 Alonso 
 
-Soy un desarrollador 💻 motivado por el aprendizaje y la creación de software escalable y seguro. Mi objetivo es colaborar activamente con equipos, optimizando el rendimiento y aplicando las mejores prácticas para el éxito del proyecto. 🚀
+Soy un desarrollador 💻 motivado por el aprendizaje continuo y la construcción de software escalable y seguro. Mi objetivo es contribuir activamente a proyectos, personales o comunitarios, optimizando el rendimiento y aplicando las mejores prácticas para el éxito colectivo. 🚀
 
 <p align="left">
   <a href="https://github.com/alonsollp?tab=followers">
@@ -14,7 +14,7 @@ Soy un desarrollador 💻 motivado por el aprendizaje y la creación de software
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/alonsollp?color=%23E1AD0E&logoColor=white&style=for-the-badge&labelColor=C79600&logo=star"/>
 </p>
       
-#
+---
 
 ### 🧰 Languages and Tools
 
@@ -28,3 +28,5 @@ Soy un desarrollador 💻 motivado por el aprendizaje y la creación de software
 <img align="left" alt="JavaScript" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />  
 </br>
+
+#
