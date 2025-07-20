@@ -4,8 +4,9 @@
 </a>-->
 
 ## 🐋 Alonso 
+**`Desarrollador de Software`**
 
-Soy un desarrollador 💻 motivado por el aprendizaje continuo y la construcción de software escalable y seguro. Mi objetivo es contribuir activamente a proyectos, personales o comunitarios, optimizando el rendimiento y aplicando las mejores prácticas para el éxito colectivo. 🚀
+Soy un desarrollador 💻 motivado por el aprendizaje continuo y la construcción de software escalable y seguro. Mi enfoque es crear soluciones que resuelvan problemas reales, abarcando desde la planificación y el diseño hasta la implementación. Mi objetivo es contribuir activamente a proyectos, ya sean personales o comunitarios, optimizando el rendimiento y aplicando las mejores prácticas para el éxito colectivo. 🚀
 
 <p align="left">
   <a href="https://github.com/alonsollp?tab=followers">
@@ -28,3 +29,11 @@ Soy un desarrollador 💻 motivado por el aprendizaje continuo y la construcció
 <img align="left" alt="JavaScript" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />  
 </br>
+<!--
+### 📊 Stats
+
+![Alonso's GitHub stats](https://github-readme-stats.vercel.app/api?username=alonsollp&show_icons=true&theme=gruvbox)
+![GitHub Streak](https://streak-stats.demolab.com?user=alonsollp&theme=gruvbox&border_radius=4.5)
+
+#
+-->
